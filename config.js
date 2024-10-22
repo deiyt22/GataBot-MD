@@ -170,7 +170,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-global.nomorown = "593993684821"
+global.nomorown = "51975661139"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -438,35 +438,35 @@ const response = await fetch('https://raw.githubusercontent.com/GataNina-Li/Gata
 const data = await response.json() 
 let { accounts, channels, groups, collaboration, sponsors, others } = data.info
 
-global.yt = accounts.youTube
-global.yt2 = others.yt_vid
-global.ig = accounts.instagram
-global.md = accounts.gatabot_md
-global.fb = accounts.facebook
-global.tk = accounts.tiktok
-global.ths = accounts.threads
-global.paypal = accounts.paypal
-global.asistencia = others.assistance_num
-global.bot = 'wa.me/50238024328'
-global.cuentas = accounts.all
+global.yt = accounts.
+global.yt2 = others.
+global.ig = accounts.
+global.md = accounts.
+global.fb = accounts.
+global.tk = accounts.
+global.ths = accounts.
+global.paypal = accounts.
+global.asistencia = others.
+global.bot = 'wa.me/51975661139'
+global.cuentas = accounts.
 
-global.canal1 = channels.channel1
-global.canal2 = channels.channel2
-global.canal3 = channels.channel3
-global.canal4 = channels.channel4
+global.canal1 = channels.
+global.canal2 = channels.
+global.canal3 = channels.
+global.canal4 = channels.
 
-global.soporteGB = others.group_support
-global.grupo1 = groups.group1
-global.grupo2 = groups.group2
-global.grupo3 = groups.group3
-global.grupo4 = groups.group4
-global.grupo5 = groups.group5
-global.grupo6 = groups.group6
+global.soporteGB = others.
+global.grupo1 = groups.
+global.grupo2 = groups.
+global.grupo3 = groups.
+global.grupo4 = groups.
+global.grupo5 = groups.
+global.grupo6 = groups.
 
-global.grupo_collab1 = collaboration.group1
-global.grupo_collab2 = collaboration.group2
-global.grupo_collab3 = collaboration.group3
-global.grupo_collab4 = collaboration.group4
+global.grupo_collab1 = collaboration.
+global.grupo_collab2 = collaboration.
+global.grupo_collab3 = collaboration.
+global.grupo_collab4 = collaboration.
 
 global.patrocinador1 = sponsors.boxmine
 global.patrocinador2 = sponsors.cafirexos
